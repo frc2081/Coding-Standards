@@ -1,0 +1,26 @@
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ plugins:
+  - jekyll-seo-tag
+ # theme: jekyll-theme-midnight
+ remote_theme: Lunar-Dust/midnight
+ gfm_quirks: paragraph_end
+ baseurl: /2081-coding-standards
+ homeurl: https://frc2081.github.io/Coding-Standards
+ repourl: https://github.com/frc2081/Coding-Standards
+
+ lsi: false
+ safe: true
+ #source: [your repo's top level directory]
+ incremental: false
+ highlighter: rouge
+ gist:
+   noscript: false
+ kramdown:
+   math_engine: mathjax
+   syntax_highlighter: rouge
