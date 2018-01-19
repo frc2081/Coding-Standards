@@ -13,16 +13,3 @@
  baseurl: /Coding-Standards
  homeurl: https://frc2081.github.io/Coding-Standards
  repourl: https://github.com/frc2081/Coding-Standards
-
- lsi: false
- safe: true
- #source: [your repo's top level directory]
- incremental: false
- highlighter: rouge
- gist:
-   noscript: false
- kramdown:
-   math_engine: mathjax
-   syntax_highlighter: rouge
-
-theme: jekyll-theme-midnight
