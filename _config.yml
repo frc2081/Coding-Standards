@@ -10,7 +10,7 @@
  # theme: jekyll-theme-midnight
  remote_theme: Lunar-Dust/midnight
  gfm_quirks: paragraph_end
- baseurl: /2081-coding-standards
+ baseurl: /Coding-Standards
  homeurl: https://frc2081.github.io/Coding-Standards
  repourl: https://github.com/frc2081/Coding-Standards
 
